@@ -1,3 +1,4 @@
 # landing-page
 
-Landing page!
+Landing page:
+Timfon.github.io/landing-page
