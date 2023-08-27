@@ -130,3 +130,88 @@ img {
     font-weight: bolder;
     font-size: 36px;
 }
+
+.three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #E5E7EB;
+
+    padding: 50px;
+
+
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1F2937
+}
+
+.author {
+    font-size: 18px;
+    margin-right: 200px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.blue-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 24px;
+
+    color:#F9FAF8;
+}
+
+.sign-up-message {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.message {
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.sign-up-bottom {
+
+    margin-left: 24px;
+
+    background-color: #3882f6;
+    font-size: 18px;
+
+    border-radius: 25px;
+
+    cursor: pointer;
+
+    padding: 8px;
+
+    border: 1px solid #F9FAF8;
+
+    font-weight: 500;
+    color:#F9FAF8
+
+}
+
+.footer{
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #F9FAF8;
+
+    padding: 50px;
+
+}
